@@ -6,8 +6,8 @@ Runtime executables are distributed only as GitHub Release assets. They are not 
 
 Current release:
 
-- Tag: `runtime-0.2.47`
-- Asset: `DreadHungerServer-rust-0.2.47.exe.br`
+- Tag: `runtime-0.2.48`
+- Asset: `DreadHungerServer-rust-0.2.48.exe.br`
 - Compression: Brotli
 - Platform: Windows x64
 
